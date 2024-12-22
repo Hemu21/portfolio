@@ -1,0 +1,71 @@
+{
+  "skillSet": [
+    {
+      "id": "1",
+      "name": "MongoDB",
+      "imageSource": "/assets/skills/Mongo.png"
+    },
+    {
+      "id": "2",
+      "name": "Express.js",
+      "imageSource": "/assets/skills/Express.png"
+    },
+
+    {
+      "id": "3",
+      "name": "React.js",
+      "imageSource": "/assets/skills/react.png"
+    },
+
+    {
+      "id": "4",
+      "name": "Next.js",
+      "imageSource": "/assets/skills/nextjs.png"
+    },
+    {
+      "id": "5",
+      "name": "React Native",
+      "imageSource": "/assets/skills/react.png"
+    },
+    {
+      "id": "6",
+      "name": "Tailwind",
+      "imageSource": "/assets/skills/tailwind.png"
+    },
+    {
+      "id": "7",
+      "name": "JavaScript",
+      "imageSource": "/assets/skills/javascript.png"
+    },
+    {
+      "id": "8",
+      "name": "Solidity",
+      "imageSource": "/assets/skills/Solidity.png"
+    },
+    {
+      "id": "9",
+      "name": "HTML",
+      "imageSource": "/assets/skills/html.png"
+    },
+    {
+      "id": "10",
+      "name": "CSS",
+      "imageSource": "/assets/skills/css.png"
+    },
+    {
+      "id": "11",
+      "name": "Postman",
+      "imageSource": "/assets/skills/postman.png"
+    },
+    {
+      "id": "12",
+      "name": "Git",
+      "imageSource": "/assets/skills/git.png"
+    },
+    {
+      "id": "13",
+      "name": "GitHub",
+      "imageSource": "/assets/skills/Github.png"
+    }
+  ]
+}
